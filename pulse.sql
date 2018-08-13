@@ -372,4 +372,5 @@ CREATE TABLE domains (
 );
 
 CREATE INDEX domains_ipAddress ON domains(ipAddress);
+
  
